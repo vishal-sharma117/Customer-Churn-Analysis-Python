@@ -18,6 +18,7 @@ README.md	Documentation
 
 <a href="https://colab.research.google.com/drive/1RUJQiU5tTHxneprklbVH6AtDgJkVOXiC" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+</a>
 
 
 
